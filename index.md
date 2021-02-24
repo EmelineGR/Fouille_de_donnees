@@ -2,7 +2,7 @@
 
 Ce groupe est composé Nassima Oukhelifa et Emeline Guillet-Revol
 
-<img src="IMG_20190819_181041.jpg" width="100"> <img src="Photos_Emeline.jpg" width="150">
+<img src="IMG_20190819_181041.jpg" width="100"> <img src="Photos_Emeline.jpg" width="130">
 
 ### Markdown
 
