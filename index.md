@@ -1,8 +1,8 @@
 ## Fouille de données
 
 Ce groupe est composé Nassima Oukhelifa et Emeline Guillet-Revol
-<img src="Photos_Emeline.jpg">
-<img src="IMG_20190819_181041.jpg">
+<img src="Photos_Emeline.jpg" width="50">
+<img src="IMG_20190819_181041.jpg" width="50">
 
 ### Markdown
 
